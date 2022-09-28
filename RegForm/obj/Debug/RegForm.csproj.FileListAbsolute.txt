@@ -1,0 +1,15 @@
+C:\Users\yashp\source\repos\RegForm\RegForm\obj\Debug\RegForm.csproj.AssemblyReference.cache
+C:\Users\yashp\source\repos\RegForm\RegForm\obj\Debug\RegForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\yashp\source\repos\RegForm\RegForm\obj\Debug\RegForm.Form1.resources
+C:\Users\yashp\source\repos\RegForm\RegForm\obj\Debug\RegForm.Properties.Resources.resources
+C:\Users\yashp\source\repos\RegForm\RegForm\obj\Debug\RegForm.csproj.GenerateResource.cache
+C:\Users\yashp\source\repos\RegForm\RegForm\obj\Debug\RegForm.csproj.CoreCompileInputs.cache
+C:\Users\yashp\source\repos\RegForm\RegForm\bin\Debug\RegForm.exe.config
+C:\Users\yashp\source\repos\RegForm\RegForm\bin\Debug\RegForm.exe
+C:\Users\yashp\source\repos\RegForm\RegForm\bin\Debug\RegForm.pdb
+C:\Users\yashp\source\repos\RegForm\RegForm\obj\Debug\RegForm.exe
+C:\Users\yashp\source\repos\RegForm\RegForm\obj\Debug\RegForm.pdb
+C:\Users\yashp\source\repos\RegForm\RegForm\bin\Debug\hi\RegForm.resources.dll
+C:\Users\yashp\source\repos\RegForm\RegForm\obj\Debug\RegForm.Form1.hi.resources
+C:\Users\yashp\source\repos\RegForm\RegForm\obj\Debug\hi\RegForm.resources.dll
+C:\Users\yashp\source\repos\RegForm\RegForm\obj\Debug\RegForm.Form2.resources
